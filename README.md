@@ -1,4 +1,4 @@
-# IT5013_Group-Adobo
+# IT5013_Group-Adobos
 
 Members: 
 1. Jeremiah Tria
