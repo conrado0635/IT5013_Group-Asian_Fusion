@@ -1,6 +1,6 @@
 # IT5013_Group-Asian Fusion
 
-Members: 
+#### Members: 
 1. Jeremiah Tria
 2. Conrado Cabuyadao
 3. Edwin Alorico
@@ -8,4 +8,11 @@ Members:
 5. Pentanee Amornkundej
 6. Yu-Ting Wang
 
-
+#### Team Values:
+ - Be Proactive
+ - Collaboration / Co-operation
+ - Communication
+ - Honesty
+ - Follow the rules
+ - Happiness
+ - Respect
